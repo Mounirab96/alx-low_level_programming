@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-sh: 1: q: not found
+ * more_numbers - Prints the numbers from 0-14 ten times.
  */
 void more_numbers(void)
 {
