@@ -3,8 +3,10 @@
 
 /**
  * create_array - function creat char array
- * @size: the size 
- * @c: specific char
+ *
+ * @size: size
+ * @c: specifique char
+ *
  * Return:if size 0 or fiald return NULL
  */
 
